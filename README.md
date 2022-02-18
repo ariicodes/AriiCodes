@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AriiCodes
-- 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on simple front-end projects
-- 📫 How to reach me? Email: arielaisrael12@gmail.com
+- 👀 I’m interested in becoming a MERN StackSoftware Engineer
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on fullstack projects
+- 📫 How to reach me? Email: arielaisrael@ariicodes.com
