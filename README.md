@@ -1,5 +1,4 @@
 - 🚀 Software engineer (Thinkful alumna), merging logic and creativity.
-- 🎨 A passion for code and a love for digital design and photography.
-- 💡 Exploring the nexus of technology and user-centric design with Google's UX Design course.
-- 💼 Specializing in full-stack web development, HTML, CSS, JavaScript, ReactJS, and more.
+- 🎨 A passion for code, digital design, and photography.
+– 💼 Specializing in full-stack web development.
 - 👋 Let's connect and build something amazing together!
